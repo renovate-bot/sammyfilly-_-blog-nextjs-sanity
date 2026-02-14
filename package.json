@@ -21,7 +21,7 @@
     "@sanity/vision": "3.15.1",
     "@vercel/og": "0.5.11",
     "classnames": "2.3.2",
-    "date-fns": "2.30.0",
+    "date-fns": "3.6.0",
     "intl-segmenter-polyfill": "0.4.4",
     "next": "13.4.19",
     "next-sanity": "5.4.6",
